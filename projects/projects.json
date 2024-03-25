@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Car physics ",
+    "desc": "implement a physics-based model for the car to follow the trajectory.",
+    "image": "5",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1F0dtpXr5V30aZykxEyC4WJlBUuso16cW/view?usp=sharing",
+      "code": " C:/Users/TUF/CAR/WebGL Builds/index.html "
+    }
+  },
+  {
+    "name": "Echecs World",
+    "desc": "An educational chess game with Unity. ",
+    "image": "6",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "aR’كيميا",
+    "desc": "An educational AR application in chemistry with Unity and Vuforia.",
+    "image": "3",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Gesmi b 3D",
+    "desc": "an educational interactive VR application which students can manipulate a 3D anatomy model using Unity and oculus quest 2.",
+    "image": "2",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Cloth Simulation",
+    "desc": "Implement a physically based model for animating a rectangular piece of cloth using mass-spring system in Unity.",
+    "image": "4",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1gTjzhi0pBd8bd6Iu0V_sWUoOzy31866p/view?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "Smart'Homey",
+    "desc": "Immersive system for electricity energy saving using connected objects (IOT) and unity",
+    "image": "7",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Yyz5XJ48jHtNGg6j6Ef7l8M8B7ZA78rb/view?usp=sharing",
+      "code": "https://docs.google.com/presentation/d/11ytFlMWH0vAtAgUg5QykqKMNOyJ79pCa/edit?usp=sharing&ouid=111572146623681846962&rtpof=true&sd=true"
+    }
+  }
+]
