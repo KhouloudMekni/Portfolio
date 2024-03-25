@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Unity",
+        "icon": "https://img.icons8.com/fluency/48/000000/unity.png"
+    },
+    {
+        "name": "Blender",
+        "icon": "https://img.icons8.com/color/48/000000/blender-3d.png"
+    },
+    {
+        "name": "UE5",
+        "icon": "https://img.icons8.com/color/48/000000/unreal-engine.png"
+    },
+    {
+        "name": "c-Sharp",
+        "icon": "https://img.icons8.com/color/48/000000/c-sharp-logo.png"
+    },
+    {
+        "name": "c",
+        "icon": "https://img.icons8.com/fluency/48/000000/c-programming.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Matlab",
+        "icon": "https://img.icons8.com/fluency/48/000000/matlab.png"
+    },
+    {
+        "name": "Arduino",
+        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    }  
+]
